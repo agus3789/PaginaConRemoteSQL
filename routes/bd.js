@@ -2,9 +2,9 @@ var mysql=require('mysql');
 
 var conexion=mysql.createConnection({
     host:'remotemysql.com',
-    user:'QhzKJVN88u',
-    password:'OptqVHGtMi',
-    database:'QhzKJVN88u'
+    user:'uHmJ0HtUjA',
+    password:'x9rMECfH0k',
+    database:'uHmJ0HtUjA'
 });
 
 conexion.connect(function (error){
